@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ZYChimne's GitHub stats](https://github-readme-stats.vercel.app/api?username=zychimne)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on macOS in Vue.
+- 🌱 I’m currently learning Frontend Development.
+- 📫 How to reach me: gazlayxyc@outlook.com
+
+- [![ZYChimne's GitHub stats](https://github-readme-stats.vercel.app/api?username=zychimne)](https://github.com/anuraghazra/github-readme-stats)
