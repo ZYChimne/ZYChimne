@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on macOS in React.
-- 🌱 I’m currently learning Front-end Development and MVVM design pattern.
+- 🔭 I’m currently working on Instant.
 - 📫 How to reach me: gazlayxyc@outlook.com
 
 ![ZYChimne's GitHub stats](https://github-readme-stats.vercel.app/api?username=zychimne&show_icons=true)
